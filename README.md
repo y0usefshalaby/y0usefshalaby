@@ -1,5 +1,3 @@
-<!-- ================== MAIN TITLE ================== -->
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yousef+Shalaby;Software+Developer;Linux+%26+Windows+Power+User;Always+Learning..." alt="Typing SVG" />
 </div>
@@ -10,7 +8,6 @@
 
 <br />
 
-<!-- ================== SOCIAL ICONS CLEANED ================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank" style="margin: 0;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
@@ -27,7 +24,8 @@
   </a>
 </div>
 
-<!-- ================== ABOUT + ACTIVITY ================== -->
+<br />
+<hr />
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -42,7 +40,7 @@
         <li>⚡ Obsessed with <b>Automation</b> & <b>Clean Code</b></li>
       </ul>
 
-  <h2>🛠️ Tech Stack</h2>
+   <h2>🛠️ Tech Stack</h2>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=python,js,java,cpp,bash&theme=dark" />
         <br /><br />
@@ -50,26 +48,24 @@
       </div>
     </td>
 
-  <td width="45%" valign="top" align="center">
+   <td width="45%" valign="top" align="center">
       <h2>📊 Github Activity</h2>
 
-   <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=default&bg_color=191919" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=default&bg_color=191919" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 
   <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=dark&background=191919" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=dark&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
 
 <br />
 <hr />
-
-<!-- ================== PROJECTS ================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -85,7 +81,7 @@
       <p align="center"><a href="#">View Repository</a></p>
     </td>
 
-   <td width="50%">
+  <td width="50%">
       <h3 align="center">🔹 Project Name 2</h3>
       <p align="center">Automation script/tool for Linux environments. Solves complex system tasks efficiently.</p>
       <p align="center">
