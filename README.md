@@ -34,12 +34,12 @@
 <!-- ======================= ABOUT ME ======================= -->
 
 ## 👨‍💻 About Me
-- 💼 First-year university student  
-- 💻 Passionate software developer  
-- 🧠 Learning web development & backend  
-- 🐧 Experienced with Linux & Windows  
-- 🚀 Love building automation tools & creative projects  
-- 🎯 Aiming to become a Full-Stack Engineer  
+- First-year university student  
+- Passionate software developer  
+- Learning web development & backend  
+- Comfortable using Linux & Windows  
+- Interested in automation, problem-solving, and clean code  
+- Aspiring full-stack engineer  
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### **Programming Languages**
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=bash" width="45"/>
 </p>
 
-### **Frameworks & Tools**
+### Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
   <img src="https://skillicons.dev/icons?i=express" width="45"/>
@@ -73,23 +73,23 @@
 
 ## 📌 Featured Projects
 
-### 🔹 **Project Name 1**
+### 🔹 Project Name 1
 Short description about the project.  
 **Tech Used:** JavaScript, Node.js, Express  
-👉 *Repo Link*
+👉 Repository link here
 
 ---
 
-### 🔹 **Project Name 2**
+### 🔹 Project Name 2
 Short description about the project.  
 **Tech Used:** Python, Flask  
-👉 *Repo Link*
+👉 Repository link here
 
 ---
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
@@ -102,4 +102,4 @@ Short description about the project.
 
 ---
 
-<h3 align="center">⭐ إذا عجبتك صفحتي — اعمل Follow و Star للمستودعات!</h3>
+<h3 align="center">⭐ If you enjoy my work, consider giving a star!</h3>
