@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a><a href="mailto:contactyousefshalaby@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a><a href="YOUR_CV_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume/CV-424242?style=for-the-badge&logo=file-text&logoColor=white" height="30" />
   </a><a href="https://sites.google.com/view/yousefshalaby" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" />
   </a><a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
