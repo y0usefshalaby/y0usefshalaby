@@ -59,13 +59,13 @@
       
   <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" width="100%" />
       
-   <br /><br />
+  <br /><br />
       
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
       
-   <br /><br />
+  <br /><br />
       
-  <img src="https://github-contributions-stats.vercel.app/api?username=y0usefshalaby&theme=github-dark" alt="GitHub Contributions" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
     </td>
   </tr>
 </table>
