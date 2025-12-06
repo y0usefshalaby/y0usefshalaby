@@ -11,42 +11,42 @@
 
 <!-- ======================= SOCIAL MEDIA ======================= -->
 
-<p align="center" style="margin: 0; padding: 0;">
+<p align="center" style="margin:0; padding:0;">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank"
-   style="text-decoration:none; border:0 !important; outline:none !important; margin-right:12px;">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="30" style="border:none; outline:none;" />
+<a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank" 
+   style="display:inline-block; margin-right:12px;">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" style="border:none;" />
 </a>
 
 <!-- Email -->
 <a href="mailto:contactyousefshalaby@gmail.com" target="_blank"
-   style="text-decoration:none; border:0 !important; outline:none !important; margin-right:12px;">
-  <img src="https://skillicons.dev/icons?i=gmail" width="30" style="border:none; outline:none;" />
+   style="display:inline-block; margin-right:12px;">
+  <img src="https://skillicons.dev/icons?i=gmail" width="30" style="border:none;" />
 </a>
 
 <!-- Personal Website -->
 <a href="https://sites.google.com/view/yousefshalaby" target="_blank"
-   style="text-decoration:none; border:0 !important; outline:none !important; margin-right:12px;">
-  <img src="https://github.com/y0usefshalaby/images/blob/main/internet-icon-design-vector-template_1146812-4044%20(3).png" width="30" style="border:none; outline:none;" />
+   style="display:inline-block; margin-right:12px;">
+  <img src="https://github.com/y0usefshalaby/images/blob/main/internet-icon-design-vector-template_1146812-4044%20(3).png" width="30" style="border:none;" />
 </a>
 
 <!-- YouTube -->
 <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank"
-   style="text-decoration:none; border:0 !important; outline:none !important; margin-right:12px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" style="border:none; outline:none;" />
+   style="display:inline-block; margin-right:12px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" style="border:none;" />
 </a>
 
 <!-- WhatsApp -->
 <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank"
-   style="text-decoration:none; border:0 !important; outline:none !important; margin-right:12px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="30" style="border:none; outline:none;" />
+   style="display:inline-block; margin-right:12px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="30" style="border:none;" />
 </a>
 
 <!-- Linktree -->
 <a href="https://linktr.ee/YousefShalaby" target="_blank"
-   style="text-decoration:none; border:0 !important; outline:none !important;">
-  <img src="https://github.com/y0usefshalaby/images/blob/main/linktree-transparent-icon-free-png1.png" width="30" style="border:none; outline:none;" />
+   style="display:inline-block;">
+  <img src="https://github.com/y0usefshalaby/images/blob/main/linktree-transparent-icon-free-png1.png" width="30" style="border:none;" />
 </a>
 
 </p>
