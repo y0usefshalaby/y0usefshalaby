@@ -45,7 +45,7 @@
         <li>⚡ Fun fact: I obsess over <b>Automation</b> and <b>Clean Code</b></li>
       </ul>
 
-   <br />
+  <br />
       <h2>🛠️ Tech Stack</h2>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=python,js,java,cpp,bash&theme=dark" />
@@ -57,15 +57,15 @@
   <td width="45%" valign="top" align="center">
       <h2>📊 Github Activity</h2>
       
-  <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=default&bg_color=191919" alt="Github Stats" width="100%" />
       
   <br /><br />
       
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=default&bg_color=191919" alt="Top Langs" width="100%" />
       
   <br /><br />
       
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=dark&background=191919" alt="Streak" width="100%" />
     </td>
   </tr>
 </table>
