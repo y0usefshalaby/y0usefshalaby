@@ -12,22 +12,44 @@
 <!-- ======================= SOCIAL MEDIA ======================= -->
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" width="35"/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
+  &nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:contactyousefshalaby@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/USERNAME">
-    <img src="https://skillicons.dev/icons?i=twitter" width="35"/>
+  &nbsp;&nbsp;
+
+  <!-- Personal Website -->
+  <a href="https://sites.google.com/view/yousefshalaby" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="40" />
   </a>
-  &nbsp;
-  <a href="mailto:EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
+  &nbsp;&nbsp;
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="40" />
   </a>
+  &nbsp;&nbsp;
+
+  <!-- WhatsApp Channel -->
+  <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="40" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Linktree -->
+  <a href="https://linktr.ee/YousefShalaby" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" />
+  </a>
+
 </p>
+
 
 ---
 
