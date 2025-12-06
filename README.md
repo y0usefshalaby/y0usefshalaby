@@ -1,7 +1,13 @@
+<!-- ======================= WELCOME BANNER ======================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/ASSETS/welcome-bg.jpg" width="100%" />
+</p>
+
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4e8cff;">Yousef Shalaby</span></h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Developer | Tech Enthusiast | Linux & Windows Power User</h3>
 
 <!-- ======================= SOCIAL MEDIA ======================= -->
 
@@ -29,10 +35,11 @@
 
 ## 👨‍💻 About Me
 - 💼 First-year university student  
-- 🧠 Passionate about coding, technology & business  
-- 🚀 Learning web development & backend foundations  
-- 🔧 Love building tools & improving workflows  
-- 🎯 Aiming to become a full-stack software engineer  
+- 💻 Passionate software developer  
+- 🧠 Learning web development & backend  
+- 🐧 Experienced with Linux & Windows  
+- 🚀 Love building automation tools & creative projects  
+- 🎯 Aiming to become a Full-Stack Engineer  
 
 ---
 
@@ -56,6 +63,8 @@
   <img src="https://skillicons.dev/icons?i=react" width="45"/>
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="45"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="45"/>
 </p>
 
 ---
@@ -65,15 +74,15 @@
 ## 📌 Featured Projects
 
 ### 🔹 **Project Name 1**
-Short description of the project.  
-**Tech used:** JavaScript, Node.js, Express  
+Short description about the project.  
+**Tech Used:** JavaScript, Node.js, Express  
 👉 *Repo Link*
 
 ---
 
 ### 🔹 **Project Name 2**
-Short description of the project.  
-**Tech used:** Python, Flask  
+Short description about the project.  
+**Tech Used:** Python, Flask  
 👉 *Repo Link*
 
 ---
@@ -92,7 +101,5 @@ Short description of the project.
 </p>
 
 ---
-
-<!-- ======================= FOOTER ======================= -->
 
 <h3 align="center">⭐ إذا عجبتك صفحتي — اعمل Follow و Star للمستودعات!</h3>
