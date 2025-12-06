@@ -11,30 +11,34 @@
 
 <!-- ======================= SOCIAL MEDIA ======================= -->
 
-<p align="center">
+<div style="display: flex; gap: 15px; align-items: center;">
 
-<a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254">
-<img src="https://skillicons.dev/icons?i=linkedin" width="30" />
-</a>
-<a href="mailto:contactyousefshalaby@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="30" />
-</a>
-<a href="https://sites.google.com/view/yousefshalaby">
-<img src="https://github.com/y0usefshalaby/images/blob/main/internet-icon-design-vector-template_1146812-4044%20(3).png" width="30" />
-</a>
-<a href="https://www.youtube.com/@0BLACK-ROOT">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" />
-</a>
-<a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W">
-<img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="30" />
-</a>
-<a href="https://linktr.ee/YousefShalaby">
-<img src="https://github.com/y0usefshalaby/images/blob/main/linktree-transparent-icon-free-png1.png" width="30" />
-</a>
+  <a href="#" style="outline: none; border: none;">
+    <img src="linkedin.png" alt="LinkedIn" 
+         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+  </a>
 
-</p>
+  <a href="#" style="outline: none; border: none;">
+    <img src="gmail.png" alt="Gmail" 
+         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+  </a>
 
+  <a href="#" style="outline: none; border: none;">
+    <img src="web.png" alt="Website" 
+         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+  </a>
 
+  <a href="#" style="outline: none; border: none;">
+    <img src="youtube.png" alt="YouTube" 
+         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+  </a>
+
+  <a href="#" style="outline: none; border: none;">
+    <img src="whatsapp.png" alt="WhatsApp" 
+         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+  </a>
+
+</div>
 
 
 ---
