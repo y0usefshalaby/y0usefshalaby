@@ -1,3 +1,11 @@
+<!-- ======================= HEADER IMAGE ======================= -->
+
+<div align="center">
+  <img src="PUT-YOUR-IMAGE-LINK-HERE" alt="Yousef Shalaby Banner" width="100%" />
+</div>
+
+<br />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yousef+Shalaby;Software+Developer;Cybersecurity+Enthusiast;Linux+%26+Windows+Power+User..." alt="Typing SVG" />
 </div>
