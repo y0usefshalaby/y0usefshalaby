@@ -12,33 +12,34 @@
 
 <!-- ================== SOCIAL ICONS CLEANED ================== -->
 
-<span align="center" style="display:flex; justify-content:center; gap:8px; align-items:center;">
+<div style="display:flex; justify-content:flex-start; align-items:center; gap:10px; margin-bottom:20px;">
 
-  <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank" style="display:inline-block; line-height:0;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+  <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank" style="line-height:0;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" style="display:block;">
   </a>
 
-  <a href="mailto:contactyousefshalaby@gmail.com" style="display:inline-block; line-height:0;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+  <a href="mailto:contactyousefshalaby@gmail.com" style="line-height:0;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" style="display:block;">
   </a>
 
-  <a href="https://sites.google.com/view/yousefshalaby" target="_blank" style="display:inline-block; line-height:0;">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30">
+  <a href="https://sites.google.com/view/yousefshalaby" target="_blank" style="line-height:0;">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" style="display:block;">
   </a>
 
-  <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank" style="display:inline-block; line-height:0;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30">
+  <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank" style="line-height:0;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" style="display:block;">
   </a>
 
-  <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank" style="display:inline-block; line-height:0;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30">
+  <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank" style="line-height:0;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" style="display:block;">
   </a>
 
-  <a href="https://linktr.ee/YousefShalaby" target="_blank" style="display:inline-block; line-height:0;">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="30">
+  <a href="https://linktr.ee/YousefShalaby" target="_blank" style="line-height:0;">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="30" style="display:block;">
   </a>
 
-</span>
+</div>
+
 
 
 <!-- ================== ABOUT + ACTIVITY ================== -->
