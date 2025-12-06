@@ -41,8 +41,7 @@
 <div align="center">
   <h2>👨‍💻 About Me & Cyber Focus</h2>
   <p align="center">
-    Currently a <b>First-year University Student</b> passionate about bridging the gap between <br>
-    <b>Software Engineering</b> and <b>Cybersecurity</b>. I don't just build apps; I aim to build them securely.
+    My current field of study is <b>Information Systems</b>, and I graduated from high school with a specialization in <b>Security Systems</b>. I am working on developing my skills to advance in Studying the field of <b>networking</b> to the field of <b>cybersecurity</b> as it is my favorite field of dealing with technology In addition to my hobbies and <b>planning to create content on YouTube</b>.
   </p>
   <div align="left" style="display: inline-block; text-align: left;">
     <ul>
