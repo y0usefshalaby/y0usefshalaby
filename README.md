@@ -1,126 +1,81 @@
-<!-- ======================= WELCOME BANNER ======================= -->
+<div align="center">
+  <img src="[YOUR_HEADER_IMAGE_LINK_HERE]" alt="Welcome to my GitHub Profile" width="100%" height="auto"/>
+</div>
 
-<p align="center">
-  <img src="https://github.com/y0usefshalaby/images/blob/main/53455982-tux-looking-through-windows-window.jpg" width="100%" />
+<div align="center">
+    <h1>Hello, World! I'm [Your Name] 👋</h1>
+</div>
+
+---
+
+### 🚀 About Me & Bio
+
+<p>
+I'm a **[Your Primary Role, e.g., Full-Stack Developer]** with a passion for building scalable and robust applications. With [Number] years of experience in [Your Industry/Focus], I specialize in the [Frontend/Backend/Cloud] domain, constantly seeking to learn and implement best practices. My goal is to craft clean code that solves real-world problems.
 </p>
 
-<!-- ======================= HEADER ======================= -->
+| 📝 **Current Status** | 🎯 **Goals & Interests** |
+| :--- | :--- |
+| 💼 Currently working as a **[Your Job Title]** at **[Your Company Name]**. | 💡 Actively seeking opportunities in [Specific Field, e.g., AI/ML, DevOps]. |
+| 🌱 Currently deepening my knowledge in **[New Technology you're learning]**. | 🤝 Open to collaboration on interesting **Open Source** projects. |
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4e8cff;">Yousef Shalaby</span></h1>
-<h3 align="center">Cybersecurity | Security systems technician </h3>
+<br>
 
-<!-- ================= ICONS COLUMN ================= -->
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     
-<table>
-  <tr>
-    <td width="200" valign="top">
-<p align="center" style="margin:0; padding:0;">
-        <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank" 
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="30" style="border:none;" />
-        </a>
-        <!-- Email -->
-        <a href="mailto:contactyousefshalaby@gmail.com" target="_blank"
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://skillicons.dev/icons?i=gmail" width="30" style="border:none;" />
-        </a>
-        <!-- Website -->
-        <a href="https://sites.google.com/view/yousefshalaby" target="_blank"
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://github.com/y0usefshalaby/images/blob/main/internet-icon-design-vector-template_1146812-4044%20(3).png" width="30" style="border:none;" />
-        </a>
-        <!-- YouTube -->
-        <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank"
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" style="border:none;" />
-        </a>
-        <!-- WhatsApp -->
-        <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank"
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="30" style="border:none;" />
-        </a>
-        <!-- Linktree -->
-        <a href="https://linktr.ee/YousefShalaby" target="_blank"
-          style="display:inline-block;">
-          <img src="https://github.com/y0usefshalaby/images/blob/main/linktree-transparent-icon-free-png1.png" width="30" style="border:none;" />
-        </a>
-      </p>
-    </td>
-    <!-- ================= ABOUT ME COLUMN ================= -->
-    <td valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>First-year university student</li>
-        <li>Passionate software developer</li>
-        <li>Learning web development & backend</li>
-        <li>Comfortable using Linux & Windows</li>
-        <li>Interested in automation, problem-solving, and clean code</li>
-        <li>Aspiring full-stack engineer</li>
-      </ul>
-    </td>
+    </div>
 
-  </tr>
-</table>
+<br>
 
+### 📊 GitHub Stats & Activity
 
-<!-- ======================= SKILLS ======================= -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=buefy&rank_icon=github&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=6&theme=buefy" alt="Top Languages"/>
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=dark" alt="GitHub Streak"/>
+  </a>
+</div>
 
-## 🛠️ Tech Stack & Skills
+<br>
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
-  <img src="https://skillicons.dev/icons?i=java" width="45"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="45"/>
-</p>
+### 🌐 Connect with Me (Social Media & CV)
 
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
-  <img src="https://skillicons.dev/icons?i=express" width="45"/>
-  <img src="https://skillicons.dev/icons?i=react" width="45"/>
-  <img src="https://skillicons.dev/icons?i=git" width="45"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="45"/>
-  <img src="https://skillicons.dev/icons?i=windows" width="45"/>
-</p>
+<div align="center">
+    <a href="[YOUR_LINKEDIN_URL_HERE]">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:[YOUR_EMAIL_HERE]">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="[YOUR_PORTFOLIO_OR_CV_URL_HERE]">
+        <img src="https://img.shields.io/badge/Portfolio/CV-222?style=for-the-badge&logo=gitbook&logoColor=white" alt="Portfolio/CV"/>
+    </a>
+    <a href="[YOUR_TWITTER_URL_HERE]">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    </a>
+    </div>
 
 ---
-
-<!-- ======================= PROJECTS ======================= -->
-
-## 📌 Featured Projects
-
-### 🔹 Project Name 1
-Short description about the project.  
-**Tech Used:** JavaScript, Node.js, Express  
-👉 Repository link here
-
----
-
-### 🔹 Project Name 2
-Short description about the project.  
-**Tech Used:** Python, Flask  
-👉 Repository link here
-
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=default" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" />
-</p>
-
----
-
-<h3 align="center">⭐ If you enjoy my work, consider giving a star!</h3>
+<div align="center">
+    <p>
+    Last Updated: **[Current Date, e.g., Dec 6, 2025]**
+    </p>
+</div>
