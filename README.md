@@ -87,7 +87,8 @@
 
 <div align="center">
   <h2>🚀 Featured Projects</h2>
-<!--h3>🔹 </h3>
+  
+  <h3>🔹 </h3>
   <p> </p>
   <p>
     <!--img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
