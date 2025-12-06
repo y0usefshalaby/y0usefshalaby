@@ -70,18 +70,6 @@
   <h2>📊 Github Activity</h2>
 
   <a href="https://github.com/y0usefshalaby">
-    <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="170" alt="Yousef's Github Stats" />
-  </a>
-  
-  <br /><br />
-
-  <a href="https://github.com/y0usefshalaby">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=dark&hide_border=true&title_color=0e75b6" height="170" alt="Yousef's Top Languages" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://github.com/y0usefshalaby">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=dark&hide_border=true&dates_color=0e75b6&ring_color=0e75b6" height="170" alt="Yousef's Streak" />
   </a>
 </div>
