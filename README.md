@@ -88,8 +88,8 @@
 <div align="center">
   <h2>🚀 Featured Projects</h2>
 
-  <h3>🔹 P1</h3>
-  <p> .</p>
+  <!h3>🔹 </h3>
+  <p> </p>
   <p>
     <!--img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -99,8 +99,8 @@
 
   <br /><br />
 
-  <h3>🔹 P2 Tool</h3>
-  <p> .</p>
+  <h3>🔹 </h3>
+  <p> </p>
   <p>
     <!--img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
