@@ -12,40 +12,52 @@
 
 <!-- ================== SOCIAL ICONS CLEANED ================== -->
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:contactyousefshalaby@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sites.google.com/view/yousefshalaby" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linktr.ee/YousefShalaby" target="_blank">
-        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="32" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  padding: 0 !important;
+  margin: 0 !important;
+  list-style-type: none !important;
+">
+
+  <span style="display: inline-block;">
+    <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="32" style="display:block;" />
+    </a>
+  </span>
+
+  <span style="display: inline-block;">
+    <a href="mailto:contactyousefshalaby@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" width="32" style="display:block;" />
+    </a>
+  </span>
+
+  <span style="display: inline-block;">
+    <a href="https://sites.google.com/view/yousefshalaby" target="_blank">
+      <img src="https://github.com/y0usefshalaby/images/blob/main/internet-icon-design-vector-template_1146812-4044%20(3).png" width="32" style="display:block;" />
+    </a>
+  </span>
+
+  <span style="display: inline-block;">
+    <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="32" style="display:block;" />
+    </a>
+  </span>
+
+  <span style="display: inline-block;">
+    <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="32" style="display:block;" />
+    </a>
+  </span>
+
+  <span style="display: inline-block;">
+    <a href="https://linktr.ee/YousefShalaby" target="_blank">
+      <img src="https://github.com/y0usefshalaby/images/blob/main/linktree-transparent-icon-free-png1.png" width="32" style="display:block;" />
+    </a>
+  </span>
+
+</div>
 
 
 
