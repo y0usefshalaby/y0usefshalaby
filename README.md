@@ -7,8 +7,9 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yousef+Shalaby;Software+Developer;Cybersecurity+Enthusiast;Linux+%26+Windows+Power+User..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yousef+Shalaby;Cybersecurity;Security+Systems+Technician" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Building+Secure+Solutions;Crafting+Clean+%26+Safe+Code" alt="Subtyping" />
