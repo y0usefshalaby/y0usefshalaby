@@ -25,13 +25,13 @@
   </a>
   &nbsp;&nbsp;
 
-  <!-- Personal Website -->
+   <!-- Personal Website (Globe Icon) -->
   <a href="https://sites.google.com/view/yousefshalaby" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/44/44386.png" width="40" />
   </a>
   &nbsp;&nbsp;
 
-  <!-- YouTube -->
+   <!-- YouTube (Fixed Icon) -->
   <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" width="40" />
   </a>
@@ -43,9 +43,9 @@
   </a>
   &nbsp;&nbsp;
 
-  <!-- Linktree -->
+  <!-- Linktree (Corrected Icon) -->
   <a href="https://linktr.ee/YousefShalaby" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/702/702614.png" width="40" />
   </a>
 
 </p>
