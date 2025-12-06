@@ -58,9 +58,9 @@
   <h2>🛠️ The Arsenal (Tech Stack)</h2>
   
   <h3>💻 Development & Core</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,bash,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git&theme=dark" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
   
   <br /><br />
   
