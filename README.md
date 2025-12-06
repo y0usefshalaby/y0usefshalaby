@@ -27,7 +27,7 @@
 
   <!-- Personal Website (Blue Globe) -->
   <a href="https://sites.google.com/view/yousefshalaby" target="_blank">
-    <img src="https://www.citypng.com/photo/19211/transparent-networking-internet-www-globe-black-icon" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/84/84154.png" width="40">
   </a>
   &nbsp;&nbsp;
 
@@ -45,7 +45,7 @@
 
  <!-- Linktree (Working Icon) -->
   <a href="https://linktr.ee/YousefShalaby" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F48759320-linktree-transparent-icon&psig=AOvVaw34z_A-TODS629MjG00aHx_&ust=1765100959938000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCOyMvXqJEDFQAAAAAdAAAAABAE" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="40"> 
   </a>
 
 </p>
