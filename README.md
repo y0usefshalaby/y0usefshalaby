@@ -11,34 +11,30 @@
 
 <!-- ======================= SOCIAL MEDIA ======================= -->
 
-<div style="display: flex; gap: 15px; align-items: center;">
-
-  <a href="#" style="outline: none; border: none;">
-    <img src="linkedin.png" alt="LinkedIn" 
-         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/linkedin.png" 
+         width="40" height="40" style="border:none; outline:none; user-select:none;">
   </a>
 
-  <a href="#" style="outline: none; border: none;">
-    <img src="gmail.png" alt="Gmail" 
-         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/gmail.png" 
+         width="40" height="40" style="border:none; outline:none; user-select:none;">
   </a>
 
-  <a href="#" style="outline: none; border: none;">
-    <img src="web.png" alt="Website" 
-         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/web.png" 
+         width="40" height="40" style="border:none; outline:none; user-select:none;">
   </a>
 
-  <a href="#" style="outline: none; border: none;">
-    <img src="youtube.png" alt="YouTube" 
-         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/youtube.png" 
+         width="40" height="40" style="border:none; outline:none; user-select:none;">
   </a>
 
-  <a href="#" style="outline: none; border: none;">
-    <img src="whatsapp.png" alt="WhatsApp" 
-         style="width:40px; height:40px; user-select:none; -webkit-user-drag:none;">
-  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/whatsapp.pn
 
-</div>
 
 
 ---
