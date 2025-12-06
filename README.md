@@ -65,7 +65,7 @@
       
    <br /><br />
       
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
+  <img src="https://github-contributions-stats.vercel.app/api?username=y0usefshalaby&theme=github-dark" alt="GitHub Contributions" width="100%" />
     </td>
   </tr>
 </table>
