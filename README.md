@@ -32,7 +32,7 @@
         <li>⚡ Fun fact: I obsess over <b>Automation</b> and <b>Clean Code</b></li>
       </ul>
 
-      <br />
+   <br />
       <h2>🛠️ Tech Stack</h2>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=python,js,java,cpp,bash&theme=dark" />
@@ -41,7 +41,7 @@
       </div>
     </td>
 
-    <td width="40%" valign="top" align="center">
+   <td width="40%" valign="top" align="center">
       <h2>📊 Github Activity</h2>
       <a href="https://github.com/y0usefshalaby">
         <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
