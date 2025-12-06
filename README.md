@@ -19,8 +19,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a><a href="mailto:contactyousefshalaby@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a><a href="YOUR_CV_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Resume/CV-424242?style=for-the-badge&logo=file-text&logoColor=white" height="30" />
   </a><a href="https://sites.google.com/view/yousefshalaby" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" />
   </a><a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
@@ -83,15 +81,21 @@
 <div align="center">
   <h2>📊 Github Activity</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <a href="https://github.com/y0usefshalaby">
+    <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="170" alt="Yousef's Github Stats" />
+  </a>
   
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=radical&hide_border=true" height="180" alt="langs" />
+  <a href="https://github.com/y0usefshalaby">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=dark&hide_border=true&title_color=0e75b6" height="170" alt="Yousef's Top Languages" />
+  </a>
 
   <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=radical&hide_border=true" height="180" alt="streak" />
+  <a href="https://github.com/y0usefshalaby">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=dark&hide_border=true&dates_color=0e75b6&ring_color=0e75b6" height="170" alt="Yousef's Streak" />
+  </a>
 </div>
 
 <br />
@@ -122,15 +126,6 @@
 
 <br />
 <hr />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/y0usefshalaby/y0usefshalaby/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/y0usefshalaby/y0usefshalaby/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-  </picture>
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
