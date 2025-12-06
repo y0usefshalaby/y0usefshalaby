@@ -115,5 +115,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <p>Made with ❤️ and 🛡️ by Yousef Shalaby</p>
+  <p>Made Yousef Shalaby</p>
 </div>
