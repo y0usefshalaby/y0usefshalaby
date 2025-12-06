@@ -11,7 +11,7 @@
 <br />
 
 <!-- ================== SOCIAL ICONS CLEANED ================== -->
-
+<!-- ================= ICONS (Centered & No Blue Dots) ================= -->
 <div align="center" style="
   display: flex;
   justify-content: center;
@@ -21,45 +21,82 @@
   list-style-type: none !important;
 ">
 
-  <span style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="32" style="display:block;" />
-    </a>
-  </span>
+  <span><a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a></span>
 
-  <span style="display: inline-block;">
-    <a href="mailto:contactyousefshalaby@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" width="32" style="display:block;" />
-    </a>
-  </span>
+  <span><a href="mailto:contactyousefshalaby@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a></span>
 
-  <span style="display: inline-block;">
-    <a href="https://sites.google.com/view/yousefshalaby" target="_blank">
-      <img src="https://github.com/y0usefshalaby/images/blob/main/internet-icon-design-vector-template_1146812-4044%20(3).png" width="32" style="display:block;" />
-    </a>
-  </span>
+  <span><a href="https://sites.google.com/view/yousefshalaby" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" />
+  </a></span>
 
-  <span style="display: inline-block;">
-    <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="32" style="display:block;" />
-    </a>
-  </span>
+  <span><a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
+  </a></span>
 
-  <span style="display: inline-block;">
-    <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="32" style="display:block;" />
-    </a>
-  </span>
+  <span><a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" />
+  </a></span>
 
-  <span style="display: inline-block;">
-    <a href="https://linktr.ee/YousefShalaby" target="_blank">
-      <img src="https://github.com/y0usefshalaby/images/blob/main/linktree-transparent-icon-free-png1.png" width="32" style="display:block;" />
-    </a>
-  </span>
+  <span><a href="https://linktr.ee/YousefShalaby" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="30" />
+  </a></span>
 
 </div>
 
+<br /><hr />
 
+<!-- ================= CONTENT WITHOUT TABLE ================= -->
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  flex-wrap: wrap;
+">
+
+  <!-- ===== ABOUT ME SECTION (Left) ===== -->
+  <div style="max-width: 420px;">
+    <h2>👨‍💻 About Me</h2>
+    <p>
+      Currently a <b>First-year University Student</b> with a passion for software engineering.
+      I bridge the gap between <b>Linux</b> efficiency and <b>Windows</b> versatility.
+    </p>
+    <ul>
+      <li>🔭 Working on <b>Full-Stack Web Projects</b></li>
+      <li>🌱 Learning <b>Advanced Backend Architecture</b></li>
+      <li>⚡ Obsessed with <b>Automation</b> & <b>Clean Code</b></li>
+    </ul>
+
+  <h2>🛠️ Tech Stack</h2>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=python,js,java,cpp,bash&theme=dark" />
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,react,git,linux,windows,vscode,docker&theme=dark" />
+    </div>
+  </div>
+
+  <!-- ===== GITHUB STATS SECTION (Right) ===== -->
+  <div style="max-width: 450px;">
+    <h2>📊 Github Activity</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=default&bg_color=191919" width="100%" />
+
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=default&bg_color=191919" width="100%" />
+
+  <br /><br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=dark&background=191919" width="100%" />
+  </div>
+
+</div>
+
+<br /><hr />
 
 
 <!-- ================== ABOUT + ACTIVITY ================== -->
