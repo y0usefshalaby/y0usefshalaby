@@ -11,7 +11,7 @@
 
 <!-- ======================= SOCIAL MEDIA ======================= -->
 
-<p align="center">
+<p align="center" style="margin: 0; padding: 0;">
 
 <span style="text-decoration:none; border:0 !important;">
   
