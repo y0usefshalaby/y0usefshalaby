@@ -7,7 +7,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4e8cff;">Yousef Shalaby</span></h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Linux & Windows Power User</h3>
+<h3 align="center">Cybersecurity | Security systems technician </h3>
 
 <!-- ======================= SOCIAL MEDIA ======================= -->
 
