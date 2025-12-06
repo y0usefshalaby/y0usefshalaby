@@ -25,27 +25,27 @@
   </a>
   &nbsp;&nbsp;
 
-   <!-- Personal Website (Globe Icon) -->
+  <!-- Personal Website (Blue Globe) -->
   <a href="https://sites.google.com/view/yousefshalaby" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/44/44386.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/484/484167.png" width="40" />
   </a>
   &nbsp;&nbsp;
 
-   <!-- YouTube (Fixed Icon) -->
+ <!-- YouTube (Working Icon) -->
   <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" />
   </a>
   &nbsp;&nbsp;
-
+  
   <!-- WhatsApp Channel -->
   <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="40" />
   </a>
   &nbsp;&nbsp;
 
-  <!-- Linktree (Corrected Icon) -->
+ <!-- Linktree (Working Icon) -->
   <a href="https://linktr.ee/YousefShalaby" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/702/702614.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="40" />
   </a>
 
 </p>
