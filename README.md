@@ -9,11 +9,24 @@
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 5px;" /></a>
-  <a href="mailto:contactyousefshalaby@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" style="margin: 5px;" /></a>
-  <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40" style="margin: 5px;" /></a>
-  <a href="https://sites.google.com/view/yousefshalaby" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=flat&logo=react&logoColor=61DAFB" height="40" style="margin: 5px;" /></a>
-  <a href="https://linktr.ee/YousefShalaby" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white" height="40" style="margin: 5px;" /></a>
+  <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="mailto:contactyousefshalaby@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <a href="https://sites.google.com/view/yousefshalaby" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" />
+  </a>
+  <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
+  </a>
+  <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" />
+  </a>
+  <a href="https://linktr.ee/YousefShalaby" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="30" />
+  </a>
 </div>
 
 <br />
@@ -21,7 +34,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h2>👨‍💻 About Me</h2>
       <p>
         Currently a <b>First-year University Student</b> with a passion for software engineering. I bridge the gap between <b>Linux</b> efficiency and <b>Windows</b> versatility.
@@ -32,7 +45,7 @@
         <li>⚡ Fun fact: I obsess over <b>Automation</b> and <b>Clean Code</b></li>
       </ul>
 
-   <br />
+  <br />
       <h2>🛠️ Tech Stack</h2>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=python,js,java,cpp,bash&theme=dark" />
@@ -41,19 +54,18 @@
       </div>
     </td>
 
-   <td width="40%" valign="top" align="center">
+  <td width="45%" valign="top" align="center">
       <h2>📊 Github Activity</h2>
-      <a href="https://github.com/y0usefshalaby">
-        <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
-      </a>
-      <br />
-      <a href="https://github.com/y0usefshalaby">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
-      </a>
-      <br />
-      <a href="https://github.com/y0usefshalaby">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
-      </a>
+      
+  <img src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" width="100%" />
+      
+   <br /><br />
+      
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
+      
+   <br /><br />
+      
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -67,7 +79,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">🔹 Project Name 1</h3>
-      <p align="center">A robust web application designed for [Purpose]. Features secure authentication and real-time data.</p>
+      <p align="center">A robust web application designed for high performance. Features secure authentication and real-time data.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -76,7 +88,7 @@
     </td>
     <td width="50%">
       <h3 align="center">🔹 Project Name 2</h3>
-      <p align="center">Automation script/tool for Linux environments. Solves [Problem] efficiently.</p>
+      <p align="center">Automation script/tool for Linux environments. Solves complex system tasks efficiently.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
