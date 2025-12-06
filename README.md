@@ -1,123 +1,104 @@
-<!-- ======================= WELCOME BANNER ======================= -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/y0usefshalaby/REPO/main/ASSETS/welcome-bg.jpg" alt="Welcome Banner" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/ASSETS/welcome-bg.jpg" width="100%" />
-</p>
+<div align="center">
+    <h1 style="border-bottom: 2px solid #4e8cff; padding-bottom: 5px;">👋 Hi, I'm <span style="color:#4e8cff;">Yousef Shalaby</span></h1>
+    <h3>Software Developer | Tech Enthusiast | Linux & Windows Power User</h3>
 
-<!-- ======================= HEADER ======================= -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#4e8cff;">Yousef Shalaby</span></h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Linux & Windows Power User</h3>
-
-<table>
-  <tr>
-<!-- ================= ICONS COLUMN ================= -->
-    <td width="200" valign="top">
-      <p align="center" style="margin:0; padding:0;">
-        <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank" 
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="30" style="border:none;" />
+    <p>
+        <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank" style="margin: 0 8px;">
+            <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
         </a>
-        <!-- Email -->
-        <a href="mailto:contactyousefshalaby@gmail.com" target="_blank"
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://skillicons.dev/icons?i=gmail" width="30" style="border:none;" />
+        <a href="mailto:contactyousefshalaby@gmail.com" target="_blank" style="margin: 0 8px;">
+            <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email"/>
         </a>
-        <!-- Website -->
-        <a href="https://sites.google.com/view/yousefshalaby" target="_blank"
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://github.com/y0usefshalaby/images/blob/main/internet-icon-design-vector-template_1146812-4044%20(3).png" width="30" style="border:none;" />
+        <a href="https://sites.google.com/view/yousefshalaby" target="_blank" style="margin: 0 8px;">
+            <img src="https://img.shields.io/badge/Portfolio-4E8CFF?style=for-the-badge&logo=google-chrome&logoColor=white" width="120" height="35" alt="Portfolio"/>
         </a>
-        <!-- YouTube -->
-        <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank"
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" style="border:none;" />
+        <a href="https://www.youtube.com/@0BLACK-ROOT" target="_blank" style="margin: 0 8px;">
+            <img src="https://skillicons.dev/icons?i=youtube" width="35" alt="YouTube"/>
         </a>
-        <!-- WhatsApp -->
-        <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank"
-          style="display:inline-block; margin-right:12px;">
-          <img src="https://cdn-icons-png.flaticon.com/512/134/134937.png" width="30" style="border:none;" />
+        <a href="https://www.whatsapp.com/channel/0029VbBdVcO002SzKjlmI42W" target="_blank" style="margin: 0 8px;">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="120" height="35" alt="WhatsApp Channel"/>
         </a>
-        <!-- Linktree -->
-        <a href="https://linktr.ee/YousefShalaby" target="_blank"
-          style="display:inline-block;">
-          <img src="https://github.com/y0usefshalaby/images/blob/main/linktree-transparent-icon-free-png1.png" width="30" style="border:none;" />
+        <a href="https://linktr.ee/YousefShalaby" target="_blank" style="margin: 0 8px;">
+            <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=4E8CFF" width="120" height="35" alt="Linktree"/>
         </a>
-      </p>
-    </td>
-    <!-- ================= ABOUT ME COLUMN ================= -->
-    <td valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>First-year university student</li>
-        <li>Passionate software developer</li>
-        <li>Learning web development & backend</li>
-        <li>Comfortable using Linux & Windows</li>
-        <li>Interested in automation, problem-solving, and clean code</li>
-        <li>Aspiring full-stack engineer</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- ======================= SKILLS ======================= -->
-
-## 🛠️ Tech Stack & Skills
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
-  <img src="https://skillicons.dev/icons?i=java" width="45"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="45"/>
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
-  <img src="https://skillicons.dev/icons?i=express" width="45"/>
-  <img src="https://skillicons.dev/icons?i=react" width="45"/>
-  <img src="https://skillicons.dev/icons?i=git" width="45"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="45"/>
-  <img src="https://skillicons.dev/icons?i=windows" width="45"/>
-</p>
+    </p>
+</div>
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
+## 👨‍💻 About Me & Current Status
+
+| Current Focus | Interests & Goals |
+| :--- | :--- |
+| 🎓 **First-year university student** diving deep into Computer Science fundamentals. | 💡 Passionate about **Automation**, **Problem-Solving**, and building with **Clean Code** principles. |
+| 🚀 Actively learning **Web Development** (focusing on Full-Stack) and **Backend** architecture. | 🌐 Aspiring to become a **Full-Stack Engineer** with expertise in Cloud Technologies. |
+| 💻 Comfortable using **Linux** & **Windows** for development environments. | 🤝 Open to contributing to **Open Source** projects and collaborating on innovative ideas. |
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+    <h4>Programming Languages</h4>
+    <p>
+        <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
+        <img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript"/>
+        <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/>
+        <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++"/>
+        <img src="https://skillicons.dev/icons?i=bash" width="45" alt="Bash"/>
+    </p>
+
+    <h4>Frameworks, Libraries & Tools</h4>
+    <p>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/>
+        <img src="https://skillicons.dev/icons?i=express" width="45" alt="Express"/>
+        <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
+        <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
+        <img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux"/>
+        <img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows"/>
+        </p>
+</div>
+
+---
 
 ## 📌 Featured Projects
 
 ### 🔹 Project Name 1
-Short description about the project.  
-**Tech Used:** JavaScript, Node.js, Express  
-👉 Repository link here
+Short description about the project. (e.g., A multi-user blog platform for sharing tech articles.)
+**Tech Used:** JavaScript, Node.js, Express, [Database]
+<br>
+👉 [Repository Link Here]([PROJECT_REPO_LINK_1])
 
----
+<br>
 
 ### 🔹 Project Name 2
-Short description about the project.  
-**Tech Used:** Python, Flask  
-👉 Repository link here
+Short description about the project. (e.g., A CLI tool for automating Linux system maintenance tasks.)
+**Tech Used:** Python, Flask, [Other Tech]
+<br>
+👉 [Repository Link Here]([PROJECT_REPO_LINK_2])
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
+## 📊 GitHub Stats & Activity
 
-## 📊 GitHub Stats
+<div align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=y0usefshalaby&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=default&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=default" />
-</p>
+<br>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" />
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0usefshalaby&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+</div>
 
 ---
 
-<h3 align="center">⭐ If you enjoy my work, consider giving a star!</h3>
+<h3 align="center">
+    <span style="color:#4e8cff;">⭐</span> If you enjoy my work, consider giving a star!
+</h3>
