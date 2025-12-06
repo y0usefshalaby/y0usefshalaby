@@ -1,7 +1,7 @@
 <!-- ======================= WELCOME BANNER ======================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/ASSETS/welcome-bg.jpg" width="100%" />
+  <img src="https://github.com/y0usefshalaby/images/blob/main/53455982-tux-looking-through-windows-window.jpg" width="100%" />
 </p>
 
 <!-- ======================= HEADER ======================= -->
