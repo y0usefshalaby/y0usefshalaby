@@ -85,7 +85,7 @@
 <br />
 <hr />
 
-<div align="center">
+<!--div align="center">
   <h2>🚀 Featured Projects</h2>
   
   <h3>🔹 </h3>
@@ -109,7 +109,7 @@
 </div>
 
 <br />
-<hr />
+<hr /-->
 
 
 
