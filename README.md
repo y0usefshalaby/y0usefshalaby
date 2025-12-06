@@ -5,7 +5,6 @@
 <div align="center">
     <h1 style="border-bottom: 2px solid #4e8cff; padding-bottom: 5px;">👋 Hi, I'm <span style="color:#4e8cff;">Yousef Shalaby</span></h1>
     <h3>Software Developer | Tech Enthusiast | Linux & Windows Power User</h3>
-
     <p>
         <a href="https://www.linkedin.com/in/yousef-shalaby-a6a79a254" target="_blank" style="margin: 0 8px;">
             <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
@@ -51,7 +50,6 @@
         <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++"/>
         <img src="https://skillicons.dev/icons?i=bash" width="45" alt="Bash"/>
     </p>
-
     <h4>Frameworks, Libraries & Tools</h4>
     <p>
         <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/>
