@@ -45,9 +45,9 @@
   </p>
   <div align="left" style="display: inline-block; text-align: left;">
     <ul>
-      <li>🔭 Working on <b>Full-Stack Web Projects</b> with a security-first mindset.</li>
-      <li>🌱 Learning <b>Advanced Backend Architecture</b> & <b>Penetration Testing</b>.</li>
-      <li>⚡ Obsessed with <b>Automation</b>, <b>Linux Hardening</b>, & <b>Clean Code</b>.</li>
+      <li>🔭 Working on <b>Web Projects</b> with a security-first mindset.</li>
+      <li>🌱 Learning <b>Fundamentals Cyber ​​Security</b> to <b>Penetration Testing</b>.</li>
+      <li>⚡ Obsessed with <b>Programming</b>, <b>Linux </b>, & <b>Networking</b>.</li>
     </ul>
   </div>
 </div>
