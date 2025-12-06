@@ -86,12 +86,12 @@
 <hr />
 
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
+  <!--h2>🚀 Featured Projects</h2>
 
-  <h3>🔹 Secure Web App</h3>
-  <p>A robust web application built with security best practices (JWT, Validation).</p>
+  <!--h3>🔹 P1</h3>
+  <p> .</p>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <!--img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Security-First-blue?style=flat-square" />
   </p>
@@ -99,7 +99,7 @@
 
   <br /><br />
 
-  <h3>🔹 Linux Automation Tool</h3>
+  <h3>🔹 P2 Tool</h3>
   <p>Automation script for Linux environments to handle system tasks and security hardening.</p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
