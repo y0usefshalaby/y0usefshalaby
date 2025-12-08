@@ -75,7 +75,7 @@
 <hr />
 
 <div align="center">
-  <h2>📊 Github Activity</h2>
+  <!--h2>📊 Github Activity</h2>
 
   <a href="https://github.com/y0usefshalaby">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0usefshalaby&theme=dark&hide_border=true&dates_color=0e75b6&ring_color=0e75b6" height="170" alt="Yousef's Streak" />
